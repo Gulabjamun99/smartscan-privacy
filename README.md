@@ -47,4 +47,4 @@ Because all document operations are strictly offline, you have complete control 
 
 ### 6. Contact Us
 If you have any questions or feedback regarding this Privacy Policy, please contact us at:  
-**Email:** rohit.workforce@gmail.com
+**Email:** enjoylifeauw@gmail.com
