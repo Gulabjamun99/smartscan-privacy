@@ -18,7 +18,7 @@ SmartScan AI processes all documents, photos, scans, and PDFs locally inside you
 * **PDF Power Utilities:** Merging, splitting, and compressing PDF files happen offline on your phone storage.
 * **QR & Barcode Suite:** QR code generation and live camera decoding work without sending data over the internet.
 
-**Zero files, scans, photos, signatures, or documents are ever uploaded, transmitted, or stored on any external server or cloud database.**
+Zero files, scans, photos, signatures, or documents are ever uploaded, transmitted, or stored on any external server or cloud database.
 
 ---
 
